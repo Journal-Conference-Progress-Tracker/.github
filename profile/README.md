@@ -21,6 +21,7 @@
 ---
 
 ### **使用 Convolutional Autoencoder 進行旅遊模擬**
+[link](https://github.com/Journal-Conference-Progress-Tracker/.github/blob/main/travel_simulation.md)
 - **介紹**：
   - **重要性**：理解旅客需求及常造訪區域，有助於旅遊業者改善服務和環境。
   - **過去作法**：過去研究多依賴傳統機器學習方法，但缺乏對高維數據的有效處理能力。
@@ -35,8 +36,8 @@
   - **主題**：探索 GNN 的強大功能，分析其如何解決 CNN 在景點預測中的缺陷。
 
 ---
-
 ### **使用 GANs 的 Discriminator 進行旅遊診斷**
+[link](https://github.com/Journal-Conference-Progress-Tracker/.github/blob/main/itinerary_screening.md)
 - **介紹**：
   - **重要性**：隨著自助旅行的普及，個性化的旅遊診斷成為旅遊業的重要需求，能幫助遊客更好地規劃行程。
   - **過去作法**：CNN 模型在旅遊模擬中的有效性間接證明了 GANs 的 Discriminator 亦可用於相關應用。
